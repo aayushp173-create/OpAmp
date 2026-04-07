@@ -28,7 +28,7 @@ The design focuses on achieving:
 - **Compensation:** Miller Compensation with nulling resistor
 
 ### 📷 Schematic
-![OpAmp Architecture](./images/opamp_schematic.png)
+![OpAmp Architecture](OpAmp Architecture.png)
 
 ---
 
