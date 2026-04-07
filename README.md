@@ -52,32 +52,6 @@ The design focuses on achieving:
 | Input Noise | 46.56 nV/√Hz |
 | Offset Voltage | 0.6 µV |
 
----
-
-## 📈 Simulation Results
-
-### 🔹 Frequency Response
-![Bode Plot](./images/bode_plot.png)
-
-### 🔹 Transient Response
-![Transient](./images/transient_response.png)
-
-### 🔹 Noise Analysis
-![Noise](./images/noise_plot.png)
-
----
-
-## 🧮 Key Equations
-
-### Unity Gain Bandwidth
-\[
-f_{UGB} = \frac{g_m}{2\pi C_c}
-\]
-
-### Slew Rate
-\[
-SR = \frac{I_{tail}}{C_c}
-\]
 
 ---
 
